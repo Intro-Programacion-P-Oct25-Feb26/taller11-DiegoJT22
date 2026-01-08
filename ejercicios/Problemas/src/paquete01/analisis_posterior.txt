@@ -1,0 +1,7 @@
+Luego de realizar el problema pude darme que cuenta que estuve haciendo mal la 
+comparacion del resultante ya que debia ser con la variable local con su 
+respectiva posicion ya que de otra manera unicamente se estarian imprimiendo 
+sin realizar ninguna comparacion.Considero que la parte mas importante es saber
+realizar bien la comparacion y el uso de el resultante luego de resolver el 
+ejercicio tengo claro como debo utilizar la variable local y sus posiciones para
+poder compararla.

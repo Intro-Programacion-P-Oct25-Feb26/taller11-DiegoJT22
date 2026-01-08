@@ -1,0 +1,6 @@
+Para realizar este codigo tuve de referecia el ejemplo 3 con el cual pude ver 
+que que primero dentro de proceso debia crear un cliclo repetitivo en el cual 
+me permita comparar cada valor del arreglo con la posicion exacta para luego con
+el resultante de cada valor ver si son numeros pares o no y para lograr hacer 
+que se concatenen necesitare de de una cadena ademas de que asi gracias al ciclo
+se ira respetando el orden en el que se imprimiran los datos.
