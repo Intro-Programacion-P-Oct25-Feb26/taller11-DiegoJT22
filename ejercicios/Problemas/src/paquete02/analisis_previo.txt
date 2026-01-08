@@ -1,0 +1,7 @@
+Para realizar esta solucion requerire hacer que se ingresen los datos de cada 
+vivienda por teclado para lo cual me parece que tendre que creear dos metodos 
+en el primero pedire los nombre de cada vivienda y en segundo metodo pedire en
+el consumo energetico en la cual ademas de almacenar los datos de consumo
+tambien tendre que sumarlos por cada viviendo para sumarlos y dar el consumo 
+anual para cada vivienda luego tendre que crear un procedimiento que reciba 
+todos los datos y genere el reporte final
