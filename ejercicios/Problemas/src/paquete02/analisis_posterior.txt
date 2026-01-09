@@ -1,0 +1,7 @@
+La parte que mas me costo comprender fue el manejo del arreglo bidimensional
+porque debia recorrer correctamente filas y columnas para no confundir los
+consumos. Al inicio cometi el error de no separar bien las responsabilidades de
+cada metodo y lo corregi dividiendo el ingreso la suma y el reporte considero
+que la parte mas importante es el metodo que calcula la suma anual ya que de ahi
+salen los datos principales con este ejercicio aprendi a trabajar mejor con 
+arreglos bidimensionales y a organizar el proceso usando metodos
