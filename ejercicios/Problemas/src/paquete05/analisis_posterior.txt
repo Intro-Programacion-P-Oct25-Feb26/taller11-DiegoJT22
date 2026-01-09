@@ -1,0 +1,5 @@
+La parte que mas me costo fue recorrer correctamente las filas y columnas al 
+mismo tiempo al inicio cometi el error de incrementar mal la variable del ciclo 
+interno y eso lo corregi revisando el for considero que la parte mas importante 
+es sumar los valores usando la misma posicion en ambos arreglos con este 
+ejercicio aprendi a manejar mejor arreglos bidimensionales y ciclos anidados

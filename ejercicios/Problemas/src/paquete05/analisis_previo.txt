@@ -1,0 +1,6 @@
+Para resolver este problema creo que tendre que crear una funcion la cual espere
+recibir las dos cadenas ademas dentro del metodo tendre que crear un ciclo 
+repetitivo para que se pueda hacer la suma de los dos arreglos luego de eso
+como cree una funcion tendre que retonar los valores para poder imprimir la suma
+Tambien tendre que recorrer filas y columnas al mismo tiempo para sumar 
+correctamente cada posicion
