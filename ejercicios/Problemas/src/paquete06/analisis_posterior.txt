@@ -1,0 +1,6 @@
+La parte que mas me costo fue entender el proceso para calcular primero la media
+y luego la desviacion estandar al inicio no tenia claro que la media debia 
+enviarse como parametro y lo corregi separando los metodos considero que la 
+parte mas importante es recorrer todo el arreglo y usar correctamente la formula
+Con este ejercicio aprendi a aplicar operaciones matematicas usando arreglos y
+metodos
