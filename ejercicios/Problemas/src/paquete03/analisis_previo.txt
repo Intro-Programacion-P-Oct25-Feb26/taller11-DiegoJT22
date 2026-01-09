@@ -1,0 +1,6 @@
+Para generar esta solucion pienso que primero tendre que preguntar cual es el 
+procedimiento que se piensa usar a lo cual mediante un switch con el cual quiero
+hacer que los lleve al procedimiento correspondiente. Luego cuando se entre al 
+procedimiento pedire los datos necesarios para hacer que presente el valor 
+correspondiente al final cada procedimiento realizara su proceso de forma 
+separada 

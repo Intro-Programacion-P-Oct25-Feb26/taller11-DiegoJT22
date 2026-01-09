@@ -1,0 +1,7 @@
+La parte que mas me costo comprender fue el uso del switch para dirigir 
+correctamente al procedimiento correspondiente al inicio pense en usar 
+procedimientos separados para cuadrado y rectangulo pero luego me di cuenta que 
+podia calcular ambas areas en el mismo procedimiento. Considero que la parte mas 
+importante es enviar la opcion del usuario como parametro para mostrar un 
+mensaje diferente segun la respuesta del usuario en este ejercicio aprendi a 
+reutilizar metodos simplificando la solucion sin repetir codigo
