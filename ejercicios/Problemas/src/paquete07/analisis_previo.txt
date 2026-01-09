@@ -1,0 +1,5 @@
+La parte que mas me costo fue validar la longitud de cada cadena dentro del 
+arreglo al inicio no tenia claro donde colocar el mensaje cuando no existian 
+valores validos y lo corregi usando un contador considero que la parte mas 
+importante es recorrer el arreglo y comparar la cantidad de caracteres .Con este 
+ejercicio aprendi a trabajar mejor con arreglos de cadenas y condiciones

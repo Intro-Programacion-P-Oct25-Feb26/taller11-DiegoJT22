@@ -1,0 +1,6 @@
+Para resolver este problema pienso que primero tendre que crear un arreglo de 
+tamaño variable el cual sera definido por el usuario luego mediante un ciclo 
+pedire los nombres de las ciudades y los almacenare en el arreglo creado
+despues tendre que recorrer el arreglo para verificar la cantidad de caracteres 
+de cada cadena finalmente mostrare solo las ciudades que tengan cuatro o cinco 
+caracteres o un mensaje en caso de que no existan
