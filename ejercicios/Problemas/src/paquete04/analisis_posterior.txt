@@ -1,0 +1,6 @@
+La parte que mas me costo fue decidir en que momento pedir los datos del usuario
+al inicio no enviaba el nombre y la cedula a los metodos y lo corregi usando 
+parametros considero que lo mas importante es usar bien el switch para elegir el
+calculo correcto tambien fue importante mostrar mensajes claros para que el 
+usuario entienda el resultado con este ejercicio aprendi a organizar mejor el 
+programa y a pasar datos entre metodos

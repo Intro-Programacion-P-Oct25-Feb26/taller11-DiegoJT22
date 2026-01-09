@@ -1,0 +1,6 @@
+Para resolver el problema pienso que dentro de la funcion principal debo pedir
+al usuario los datos que serian su nombre y su cedula los cuales van a estar 
+siendo esperados por lo diferentes procesos luego tendre que pedir los datos 
+de cada metodo para poder darle el resultado deseado por el usuario luego para 
+finalizar le mostrore el resultado al usuario de la manera que sea facil de 
+entender
